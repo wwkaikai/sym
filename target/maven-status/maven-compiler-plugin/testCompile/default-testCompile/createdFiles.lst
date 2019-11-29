@@ -1,0 +1,6 @@
+org\b3log\symphony\util\PanguTestCase.class
+org\b3log\symphony\util\XSSTestCase.class
+org\b3log\symphony\util\vote.class
+org\b3log\symphony\util\RedditScoreTest.class
+org\b3log\symphony\util\ElasticsearchTestCase.class
+org\b3log\symphony\RepositoryJSONGen.class
